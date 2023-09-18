@@ -1,45 +1,15 @@
-# RuangAdmin
 
-RuangAdmin - Free Admin Control Panel Themes Based on Bootstrap 4
-
--------------------
-
-**RuangAdmin** is responsive admin template. Based on Bootstrap 4 Framework. Highly customizable and easy to use. 
-
-**You can review it on [RuangAdmin - Demo](https://indrijunanda.github.io/RuangAdmin/)**
-
-!["RuangAdmin Screenshot"](https://indrijunanda.github.io/RuangAdmin/img/screenshot/ss2.png "RuangAdmin Screenshot")
-
-## Contribution 
-
-Here is how : 
-
-- Fork the repository
-- Clone with ```git clone https://github.com/indrijunanda/RuangAdmin.git```
-- Or Download zip
+Intégration d'une template en utilisant laravel
 
 
-## Integrated
+Dashoard admin integration
 
-- **[CodeIgniter](https://github.com/Codeigniter-Template/Ruang-Admin-Template)** by Codeigniter Template
-- **[Laravel](https://github.com/putralangkat97/ruang-admin-laravel-6)** by putralangkat97
-- **[Laravel Starter Kit](https://github.com/superXdev/QAdmin)** by superXdev
-
-
-## License
-
-RuangAdmin is an open source and licensed under **[MIT](http://opensource.org/licenses/MIT)**
-
-
+<img width="938" alt="Template integration" src="https://github.com/AbdoulazizH/ModuleLaravel/assets/122400488/c102eb77-c683-4349-979f-c436e9f3c53c">
 
 -------------------
-### Cheers Up!
+### Allez, tenter par vous-même !
 
-*Happy Developing and Learning* 💪
-
-
-
-Regards 😁😁
+*Faites-vous plaisir en essayant d'intégrer par vous même !* 😁
 
 
 
